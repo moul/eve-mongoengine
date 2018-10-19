@@ -2,7 +2,7 @@ eve-mongoengine 0.0.9
 =====================
 
 [![Build Status](https://travis-ci.org/hellerstanislav/eve-mongoengine.png?branch=master)](https://travis-ci.org/hellerstanislav/eve-mongoengine/)
-[![Requirements Status](https://requires.io/github/hellerstanislav/eve-mongoengine/requirements.png?branch=master)](https://requires.io/github/hellerstanislav/eve-mongoengine/requirements/?branch=master)
+[![Requirements Status](https://requires.io/github/hellerstanislav/eve-mongoengine/requirements.png?branch=master)](https://requires.io/github/hellerstanislav/eve-mongoengine/requirements/?branch=master) [![GuardRails badge](https://badges.production.guardrails.io/moul/eve-mongoengine.svg)](https://www.guardrails.io)
 
 [Eve-Mongoengine](http://eve-mongoengine.readthedocs.org/en/latest/) is an
 [Eve](https://github.com/nicolaiarocci/eve/) extension, which enables
